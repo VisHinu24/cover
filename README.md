@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## Date: 19/04/2024
+## Date: 22/03/2024
 ## Name : H Vishinu 
 ## Reg.No : 212223220124
 ## AIM:
